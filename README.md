@@ -1,5 +1,5 @@
 # tsf_paymentGateway-integration
-# SPARKS FOUNDAION 
+# SPARKS FOUNDATION 
 # GRIPSEPTEMBER2021_Batch
 
 ## Task -3 
