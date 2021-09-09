@@ -1,9 +1,10 @@
-# tsf_paymentGateway-integration
 # SPARKS FOUNDATION 
 # GRIPSEPTEMBER2021_Batch
 
+
 ## Task -3 
-   Simple Website where Payment gateway is integrated using Razorpay 
+   Simple Website where Payment gateway is integrated
+ 
  
 ## Tech Stack used : 
      --> HTML
