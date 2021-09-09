@@ -4,7 +4,7 @@
     text-decoration: none;
 }
 body{
-    background-image: url(https://cdn.givingcompass.org/wp-content/uploads/2018/10/29094018/High-net-worth-individual-giving.jpg);
+    background-image: url(https://cdn.hswstatic.com/gif/charity-questions-2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -12,6 +12,8 @@ body{
 header{
     background-color: rgba(0, 0, 0, 0.246);
     box-shadow: 3px 0px 10px black;
+    position: sticky;
+    top: 0;
     display: flex;
     justify-content: space-between;
 }
@@ -29,6 +31,9 @@ header{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
     font-weight: bolder;
+    color: whitesmoke;
+}
+.menu-item > a{
     color: whitesmoke;
 }
 
@@ -63,7 +68,6 @@ header{
 .wrapper > img{
     width: 70vw;
     height: 60vh;
-    position: relative;
     border-radius: 2px;
     box-shadow: 2px 2px 10px black;
 }
